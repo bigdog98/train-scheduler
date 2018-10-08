@@ -1,0 +1,21 @@
+ .jumbotron {
+      background-color: green;
+      color: white;
+  }
+  
+  .panel-default>.panel-heading {
+      background-color: blue;
+      color: white;
+  }
+  
+  .btn {
+      background-color: green;
+  }
+  
+  @media screen and (max-width: 768px) {
+      
+  }
+  
+  @media screen and (max-width: 640px) {
+  
+  }
